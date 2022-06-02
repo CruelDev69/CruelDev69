@@ -5,7 +5,11 @@ Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a bot de
 ## Stats
 ***
 ![views](https://komarev.com/ghpvc/?username=CruelDev69&&style=for-the-badge&&color=red&&label=TOTAL+VIEWS+ON+GITHUB+PROFILE)
+
+
 ![stats](https://github-readme-stats.vercel.app/api?username=CruelDev69)
+
+
 ![trophies](https://github-profile-trophy.vercel.app/?username=CruelDev69)
 ***
 ## Discord's Information:
@@ -31,10 +35,16 @@ aka: "cruel, anar",
 ### Owned Servers:
 ***
 - [Ahad's Lounge](https://discord.gg/Ncsc5pRNgf)
+
+
 [![Ahad's Lounge](https://discordapp.com/api/guilds/868191570598432789/widget.png?style=banner2)](https://discord.gg/Ncsc5pRNgf)
 - [ΣXΣ' ΩFFICIΔL](https://discord.gg/6cqx6M9Yu3)
+
+
 [![ΣXΣ' ΩFFICIΔL](https://discordapp.com/api/guilds/889907633371361290/widget.png?style=banner2)](https://discord.gg/6cqx6M9Yu3)
 - [Vivre Support](https://discord.gg/hW5yWHgEtf)
+
+
 [![Vivre | Support](https://discordapp.com/api/guilds/797086456316690472/widget.png?style=banner2)](https://discord.gg/hW5yWHgEtf)
 ***
 ## Social Medias:
