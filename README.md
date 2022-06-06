@@ -16,7 +16,7 @@ Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a bot de
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true)
 
 
-![trophies](https://github-profile-trophy.vercel.app/?username=CruelDev69)
+![trophies](https://github-profile-trophy.vercel.app/?username=CruelDev69&theme=dark_lover&no-frame=true)
 
 ***
 ## Discord's Information:
