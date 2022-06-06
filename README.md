@@ -10,10 +10,14 @@ Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a bot de
 ![views](https://komarev.com/ghpvc/?username=CruelDev69&&style=for-the-badge&&color=red&&label=TOTAL+VIEWS+ON+GITHUB+PROFILE)
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=CruelDev69)
+![stats](https://github-readme-stats.vercel.app/api?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true)
+
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true)
 
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=CruelDev69)
+
 ***
 ## Discord's Information:
 ```js
