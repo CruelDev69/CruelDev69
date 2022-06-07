@@ -7,13 +7,13 @@ Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a bot de
 ***
 ## Stats
 ***
-![views](https://komarev.com/ghpvc/?username=CruelDev69&&style=for-the-badge&&color=red&&label=TOTAL+VIEWS+ON+GITHUB+PROFILE)
+![views](https://komarev.com/ghpvc/?username=CruelDev69&&style=for-the-badge&&color=0D0D0D&&label=TOTAL+VIEWS+ON+GITHUB+PROFILE)
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D0D0D&hide_border=true)
 
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D0D0D&hide_border=true)
 
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=CruelDev69&theme=dark_lover&no-frame=true)
