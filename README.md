@@ -13,6 +13,12 @@ Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a bot de
 ![stats](https://github-readme-stats.vercel.app/api?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D0D0D&hide_border=true)
 
 
+![streaks](https://github-readme-streak-stats.herokuapp.com/?user=CruelDev69&theme=highcontrast&background=0D0D0D&ring=9645F4&fire=FFFF00&hide_border=true&currStreakLabel=9645F4&sideLabels=9645F4&stroke=9645F4)
+
+
+![graph](https://activity-graph.herokuapp.com/graph?username=CruelDev69&bg_color=0D0D0D&color=9645F4&line=9645F4&point=FFFF00&hide_border=true)
+
+
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D0D0D&hide_border=true)
 
 
