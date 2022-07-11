@@ -5,7 +5,7 @@ Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a bot de
 
 [![ahad](https://media.discordapp.net/attachments/840846571326275609/982241176306458654/1654253817110.png)](https://thevunit.vivre.cf)
 ***
-[![ahad](https://media.discordapp.net/attachments/840846571326275609/995180079623700522/DEE8C6CD-F31C-4CB2-B852-EBF7FF8BF373.jpg)](https://thevunit.vivre.cf)
+[![ahad](https://media.discordapp.net/attachments/840846571326275609/995180079623700522/DEE8C6CD-F31C-4CB2-B852-EBF7FF8BF373.jpg)](https://www.itscruel.cf)
 ***
 ## Stats
 ***
