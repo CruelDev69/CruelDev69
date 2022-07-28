@@ -28,7 +28,7 @@ Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a bot de
 
 ***
 ## Discord's Information:
-![Discord Ahad](https://lanyard.cnrad.dev/api/839253601293172787?theme=dark&bg=0D0D0D&animated=true&idleMessage=Prolly+sleeping)
+[![Discord Ahad](https://lanyard.cnrad.dev/api/839253601293172787?theme=dark&bg=0D0D0D&animated=true&idleMessage=Prolly+sleeping)](https://discord.com/users/839253601293172787)
 
 
 ```js
