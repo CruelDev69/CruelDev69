@@ -1,6 +1,6 @@
 # [Ahad](https://www.itscruel.cf)
 ***
-Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a bot developer, web developer and guess what? I also happen to be a YouTuber. I am learning Java script, python, c++, html and, take a breath, css. After spending too many hours on the screen (I am not an actor), I realized there's a world inside another world and I want you to join my little world aka my [Discord server](https://discord.gg/Ncsc5pRNgf).
+Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a developer and guess what? I also happen to be a YouTuber. I can code in JavaScript, html, css and also little bit in python. After spending too many hours on the screen (I am not an actor), I realized there's a world inside another world and I want you to join my little world aka my [Discord server](https://discord.gg/Ncsc5pRNgf).
 
 
 [![ahad](https://media.discordapp.net/attachments/840846571326275609/982241176306458654/1654253817110.png)](https://thevunit.vivre.cf)
