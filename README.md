@@ -23,7 +23,7 @@ Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a develo
 After spending too many hours on the screen (I am not an actor), I realized there's a world inside another world and I want you to join my little world aka my [Discord server](https://discord.gg/Ncsc5pRNgf).
 
 ***
-[![ahad](https://media.discordapp.net/attachments/840846571326275609/995180079623700522/DEE8C6CD-F31C-4CB2-B852-EBF7FF8BF373.jpg)](https://www.itscruel.cf)
+<a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://media.discordapp.net/attachments/840846571326275609/995180079623700522/DEE8C6CD-F31C-4CB2-B852-EBF7FF8BF373.jpg"/></p></a>
 ***
 ## Stats
 ***
@@ -64,9 +64,9 @@ aka: "cruel, anar",
 ### Bots By [Ahad](https://www.itscruel.cf):
 ***
 - [Vivre](https://www.vivre.cf/invite)
-![vivre](https://media.discordapp.net/attachments/914513217659756585/981887137685323867/static.png)
+<a href="https://vivre.cf"><p align="center"><img width="750px" alt="Vivre" src="https://media.discordapp.net/attachments/914513217659756585/981887137685323867/static.png"/></p></a>
 - [Vivre Music](https://www.vivre.cf)
-![Vivre Music](https://media.discordapp.net/attachments/960319263728623616/963857837887459328/static.png)
+<a href="https://vivre.cf"><p align="center"><img width="750px" alt="Vivre" src="https://media.discordapp.net/attachments/960319263728623616/963857837887459328/static.png"/></p></a>
 ***
 ### Owned Servers:
 ***
