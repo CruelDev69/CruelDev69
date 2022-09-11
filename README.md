@@ -1,5 +1,9 @@
 # [Ahad](https://www.itscruel.cf)
 ***
+<a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://cdn.discordapp.com/attachments/840846571326275609/1012344792241426523/itscrruel.cf.gif"/></p></a>
+
+***
+
 Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a developer and guess what? I also happen to be a YouTuber. Languages I can code in are:
 
 ・JavaScript
@@ -18,8 +22,6 @@ Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a develo
 
 After spending too many hours on the screen (I am not an actor), I realized there's a world inside another world and I want you to join my little world aka my [Discord server](https://discord.gg/Ncsc5pRNgf).
 
-
-[![ahad](https://media.discordapp.net/attachments/840846571326275609/982241176306458654/1654253817110.png)](https://thevunit.vivre.cf)
 ***
 [![ahad](https://media.discordapp.net/attachments/840846571326275609/995180079623700522/DEE8C6CD-F31C-4CB2-B852-EBF7FF8BF373.jpg)](https://www.itscruel.cf)
 ***
