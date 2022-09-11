@@ -1,6 +1,22 @@
 # [Ahad](https://www.itscruel.cf)
 ***
-Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a developer and guess what? I also happen to be a YouTuber. I can code in JavaScript, html, css and also little bit in python. After spending too many hours on the screen (I am not an actor), I realized there's a world inside another world and I want you to join my little world aka my [Discord server](https://discord.gg/Ncsc5pRNgf).
+Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a developer and guess what? I also happen to be a YouTuber. Languages I can code in are:
+
+・JavaScript
+
+・HTML
+
+・CSS
+
+・Python
+
+・MongoDB
+
+・Heroku
+
+・Boostrap
+
+After spending too many hours on the screen (I am not an actor), I realized there's a world inside another world and I want you to join my little world aka my [Discord server](https://discord.gg/Ncsc5pRNgf).
 
 
 [![ahad](https://media.discordapp.net/attachments/840846571326275609/982241176306458654/1654253817110.png)](https://thevunit.vivre.cf)
@@ -60,7 +76,7 @@ aka: "cruel, anar",
 
 
 [![ΣXΣ' ΩFFICIΔL](https://discordapp.com/api/guilds/889907633371361290/widget.png?style=banner2)](https://discord.gg/6cqx6M9Yu3)
-- [Vivre Support](https://discord.gg/hW5yWHgEtf)
+- [TheVUnit](https://discord.gg/hW5yWHgEtf)
 
 
 [![Vivre | Support](https://discordapp.com/api/guilds/797086456316690472/widget.png?style=banner2)](https://discord.gg/hW5yWHgEtf)
