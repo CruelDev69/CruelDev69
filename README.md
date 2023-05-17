@@ -29,7 +29,8 @@ After spending too many hours on the screen (I am not an actor), I realized ther
 ![graph](https://github-readme-activity-graph.cyclic.app/graph?username=CruelDev69&bg_color=0D0D0D&color=9645F4&line=9645F4&point=FFFF00&hide_border=true)
 
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D0D0D&hide_border=true)
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D0D0D&hide_border=true" alt="">
+</div>
 
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=CruelDev69&theme=dark_lover&no-frame=true)
