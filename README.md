@@ -16,16 +16,17 @@ After spending too many hours on the screen (I am not an actor), I realized ther
 ***
 ## Stats
 ***
+<div style="display:flex;">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D0D0D&hide_border=true" alt="">
+<span style="display:inline-block;width:2%"></span>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CruelDev69&theme=highcontrast&background=0D0D0D&ring=9645F4&fire=FFFF00&hide_border=true&currStreakLabel=9645F4&sideLabels=9645F4&stroke=9645F4" alt="">
+</div>
+
+
 ![views](https://komarev.com/ghpvc/?username=CruelDev69&&style=for-the-badge&&color=0D0D0D&&label=TOTAL+VIEWS+ON+GITHUB+PROFILE)
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D0D0D&hide_border=true)
-
-
-![streaks](https://github-readme-streak-stats.herokuapp.com/?user=CruelDev69&theme=highcontrast&background=0D0D0D&ring=9645F4&fire=FFFF00&hide_border=true&currStreakLabel=9645F4&sideLabels=9645F4&stroke=9645F4)
-
-
-![graph](https://activity-graph.herokuapp.com/graph?username=CruelDev69&bg_color=0D0D0D&color=9645F4&line=9645F4&point=FFFF00&hide_border=true)
+![graph]([https://github-readme-activity-graph.cyclic.app/graph?username=CruelDev69&bg_color=0D0D0D&color=9645F4&line=9645F4&point=FFFF00&hide_border=true)
 
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D0D0D&hide_border=true)
