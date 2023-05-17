@@ -1,6 +1,5 @@
 ***
 <a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://readme-typing-svg.demolab.com?font=Titillium+Web&size=25&pause=1000&color=5609F7&center=true&vCenter=true&width=435&lines=Sup+homies;Ahad+AKA+Cruel+here"/></p></a>
-
 <a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://github-widgetbox.vercel.app/api/profile?username=CruelDev69&data=followers,repositories,stars,commits&theme=darkmode"/></p></a>
 
 ***
@@ -14,7 +13,7 @@ After spending too many hours on the screen (I am not an actor), I realized ther
 ***
 <a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://media.discordapp.net/attachments/840846571326275609/995180079623700522/DEE8C6CD-F31C-4CB2-B852-EBF7FF8BF373.jpg"/></p></a>
 ***
-## Stats
+# Stats
 ***
 ![views](https://komarev.com/ghpvc/?username=CruelDev69&&style=for-the-badge&&color=0D0D0D&&label=TOTAL+VIEWS+ON+GITHUB+PROFILE)
 
@@ -36,7 +35,7 @@ After spending too many hours on the screen (I am not an actor), I realized ther
 ![trophies](https://github-profile-trophy.vercel.app/?username=CruelDev69&theme=dark_lover&no-frame=true)
 
 ***
-## Discord's Information:
+# Discord's Information:
 [![Discord Ahad](https://lanyard.cnrad.dev/api/839253601293172787?theme=dark&bg=0D0D0D&animated=true&idleMessage=Prolly+sleeping)](https://discord.com/users/839253601293172787)
 
 
