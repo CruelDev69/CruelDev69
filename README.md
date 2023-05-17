@@ -5,7 +5,7 @@
 
 ***
 
-Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a developer and guess what? I also happen to be a YouTuber. Languages I can code in are:
+Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a developer and guess what? I also happen to be a YouTuber. Check out my [store](https://thevunit.mysellix.io/) for premium tools. Languages I can code in are:
 
 ・JavaScript
 
@@ -21,17 +21,7 @@ Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a develo
 
 ・Boostrap
 
-Check out my store for premium tools: https://thevunit.mysellix.io/
-
-<p align="center">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width="50" height="50"/>
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="50" height="50"/>
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="50" height="50"/>
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width="50" height="50"/>
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" width="50" height="50"/> 
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/heroku.svg" width="50" height="50"/>
-<img src="https://media.discordapp.net/attachments/936683086601683004/1024695303540068362/bootstrap-logo.png" width="50" height="50"/>
-</p>
+  <a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://github-widgetbox.vercel.app/api/skills?languages=js,python,html,css,bash,xml,powershell&frameworks=express,django,react,bootstrap&software=windows,vscode&includeNames=true&theme=darkmode"/></p></a>
 
 After spending too many hours on the screen (I am not an actor), I realized there's a world inside another world and I want you to join my little world aka my [Discord server](https://discord.gg/Ncsc5pRNgf).
 
