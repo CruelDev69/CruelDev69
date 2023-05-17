@@ -1,8 +1,7 @@
-# [Ahad](https://www.itscruel.cf)
 ***
 <a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://readme-typing-svg.demolab.com?font=Titillium+Web&size=25&pause=1000&color=5609F7&center=true&vCenter=true&width=435&lines=Sup+homies;Ahad+AKA+Cruel+here"/></p></a>
 
-<a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://cdn.discordapp.com/attachments/840846571326275609/1012344792241426523/itscrruel.cf.gif"/></p></a>
+<a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://github-widgetbox.vercel.app/api/profile?username=CruelDev69&data=followers,repositories,stars,commits&theme=darkmode"/></p></a>
 
 ***
 
