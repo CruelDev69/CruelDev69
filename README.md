@@ -16,6 +16,9 @@ After spending too many hours on the screen (I am not an actor), I realized ther
 ***
 ## Stats
 ***
+![views](https://komarev.com/ghpvc/?username=CruelDev69&&style=for-the-badge&&color=0D0D0D&&label=TOTAL+VIEWS+ON+GITHUB+PROFILE)
+
+
 <div style="display:flex;">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D0D0D&hide_border=true" alt="">
 <span style="display:inline-block;width:2%"></span>
@@ -23,10 +26,7 @@ After spending too many hours on the screen (I am not an actor), I realized ther
 </div>
 
 
-![views](https://komarev.com/ghpvc/?username=CruelDev69&&style=for-the-badge&&color=0D0D0D&&label=TOTAL+VIEWS+ON+GITHUB+PROFILE)
-
-
-![graph]([https://github-readme-activity-graph.cyclic.app/graph?username=CruelDev69&bg_color=0D0D0D&color=9645F4&line=9645F4&point=FFFF00&hide_border=true)
+![graph](https://github-readme-activity-graph.cyclic.app/graph?username=CruelDev69&bg_color=0D0D0D&color=9645F4&line=9645F4&point=FFFF00&hide_border=true)
 
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D0D0D&hide_border=true)
