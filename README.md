@@ -60,10 +60,6 @@ aka: "cruel, anar",
 ***
 ### Owned Servers:
 ***
-- [Ahad's Lounge](https://discord.gg/Ncsc5pRNgf)
-
-
-[![Ahad's Lounge](https://discordapp.com/api/guilds/868191570598432789/widget.png?style=banner2)](https://discord.gg/Ncsc5pRNgf)
 - [ΣXΣ' ΩFFICIΔL](https://discord.gg/6cqx6M9Yu3)
 
 
