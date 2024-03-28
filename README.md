@@ -7,11 +7,6 @@
 Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a developer and guess what? I also happen to be a YouTuber. Check out my [store](https://thevunit.mysellix.io/) for premium tools. Languages I can code in are:
 
   <a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://github-widgetbox.vercel.app/api/skills?languages=js,python,rust,html,css,bash,xml&frameworks=express,django,react,bootstrap&software=windows,vscode&includeNames=true&theme=darkmode"/></p></a>
-
-After spending too many hours on the screen (I am not an actor), I realized there's a world inside another world and I want you to join my little world aka my [Discord server](https://discord.gg/Ncsc5pRNgf).
-
-***
-<a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://media.discordapp.net/attachments/840846571326275609/995180079623700522/DEE8C6CD-F31C-4CB2-B852-EBF7FF8BF373.jpg"/></p></a>
 ***
 # Stats
 ***
@@ -23,9 +18,6 @@ After spending too many hours on the screen (I am not an actor), I realized ther
 <span style="display:inline-block;width:2%"></span>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CruelDev69&theme=highcontrast&background=0D0D0D&ring=9645F4&fire=FFFF00&hide_border=true&currStreakLabel=9645F4&sideLabels=9645F4&stroke=9645F4" alt="">
 </div>
-
-
-![graph](https://github-readme-activity-graph.cyclic.app/graph?username=CruelDev69&bg_color=0D0D0D&color=9645F4&line=9645F4&point=FFFF00&hide_border=true)
 
 
 <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D0D0D&hide_border=true" alt="">
@@ -54,18 +46,11 @@ aka: "cruel, anar",
 ### Bots By [Ahad](https://www.itscruel.cf):
 ***
 - [Vivre](https://www.vivre.cf/invite)
-<a href="https://vivre.cf"><p align="center"><img width="750px" alt="Vivre" src="https://media.discordapp.net/attachments/914513217659756585/981887137685323867/static.png"/></p></a>
+<a href="https://thevunit.vivre.cf"><p align="center"><img width="750px" alt="Vivre" src="https://us-east-1.tixte.net/uploads/thevunit.bot.style/Vivre.png"/></p></a>
 - [Vivre Music](https://www.vivre.cf)
-<a href="https://vivre.cf"><p align="center"><img width="750px" alt="Vivre" src="https://media.discordapp.net/attachments/960319263728623616/963857837887459328/static.png"/></p></a>
+<a href="https://thevunit.vivremusic.cf"><p align="center"><img width="750px" alt="Vivre" src="https://us-east-1.tixte.net/uploads/thevunit.bot.style/vivremusic.PNG"/></p></a>
 ***
 ### Owned Servers:
-***
-- [ΣXΣ' ΩFFICIΔL](https://discord.gg/6cqx6M9Yu3)
-
-
-[![ΣXΣ' ΩFFICIΔL](https://discordapp.com/api/guilds/889907633371361290/widget.png?style=banner2)](https://discord.gg/6cqx6M9Yu3)
-- [TheVUnit](https://discord.gg/hW5yWHgEtf)
-
 
 [![Vivre | Support](https://discordapp.com/api/guilds/797086456316690472/widget.png?style=banner2)](https://discord.gg/hW5yWHgEtf)
 ***
