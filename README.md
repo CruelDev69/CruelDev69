@@ -6,7 +6,7 @@
 
 Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a developer and guess what? I also happen to be a YouTuber. Check out my [store](https://thevunit.mysellix.io/) for premium tools. Languages I can code in are:
 
-  <a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://github-widgetbox.vercel.app/api/skills?languages=js,python,rust,html,css,bash,xml&frameworks=express,django,react,bootstrap&software=windows,vscode&includeNames=true&theme=darkmode"/></p></a>
+  <a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,rust,html,css,xml&&frameworks=express,django,react,bootstrap,nodejs,jQuery&software=windows,vscode,mongodb,git,heroku&includeNames=true&theme=darkmode"/></p></a>
 ***
 # Stats
 ***
@@ -14,14 +14,12 @@ Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a develo
 
 
 <div style="display:flex;">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D0D0D&hide_border=true" alt="">
-<span style="display:inline-block;width:2%"></span>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CruelDev69&theme=highcontrast&background=0D0D0D&ring=9645F4&fire=FFFF00&hide_border=true&currStreakLabel=9645F4&sideLabels=9645F4&stroke=9645F4" alt="">
+<span style="display:inline-block;width:2%"></span>
+<img width="35.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D0D0D&hide_border=true" alt="">
 </div>
 
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruelDev69&theme=midnight-purple&layout=compact&bg_color=0D0D0D&hide_border=true" alt="">
-</div>
 
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=CruelDev69&theme=dark_lover&no-frame=true)
@@ -37,22 +35,25 @@ username: "Ahad",
 discriminator: "3257",
 tag: "Ahad#3257",
 user_ID: "839253601293172787",
-servers_owned: 3,
+servers_owned: 1,
 bots_owned: 2,
 bots_status: "verified bots",
-aka: "cruel, anar",
+aka: "cruel",
 });
 ```
-### Bots By [Ahad](https://www.itscruel.cf):
+### Bots By [Ahad](https://www.itscruel.cf) ([Vivre](https://thevunit.vivre.cf) and [Vivre Music](https://thevunit.vivremusic.cf)):
 ***
-- [Vivre](https://www.vivre.cf/invite)
-<a href="https://thevunit.vivre.cf"><p align="center"><img width="750px" alt="Vivre" src="https://us-east-1.tixte.net/uploads/thevunit.bot.style/Vivre.png"/></p></a>
-- [Vivre Music](https://www.vivre.cf)
-<a href="https://thevunit.vivremusic.cf"><p align="center"><img width="750px" alt="Vivre" src="https://us-east-1.tixte.net/uploads/thevunit.bot.style/vivremusic.PNG"/></p></a>
+
+<div style="display:flex;">
+<img width="49%" src="https://us-east-1.tixte.net/uploads/thevunit.bot.style/Vivre.png" alt="vivre">
+<span style="display:inline-block;width:2%"></span>
+<img width="49%" src="https://us-east-1.tixte.net/uploads/thevunit.bot.style/vivremusic.PNG" alt="vivremusic">
+</div>
+
 ***
 ### Owned Servers:
 
-[![Vivre | Support](https://discordapp.com/api/guilds/797086456316690472/widget.png?style=banner2)](https://discord.gg/hW5yWHgEtf)
+[![TheVUnit](https://discordapp.com/api/guilds/797086456316690472/widget.png?style=banner2)](https://discord.gg/hW5yWHgEtf)
 ***
 ## Social Medias:
 [![Twitter](https://img.shields.io/twitter/follow/19Ahadnoor?color=%23ff0000&label=Follow%20%4019Ahadnoor%20on%20Twitter&style=for-the-badge&logo=twitter)](https://twitter.com/19Ahadnoor)
