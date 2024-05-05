@@ -6,7 +6,7 @@
 
 Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a developer and guess what? I also happen to be a YouTuber. Check out my [store](https://thevunit.mysellix.io/) for premium tools. Languages I can code in are:
 
-  <a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,rust,html,css,xml&&frameworks=express,django,react,bootstrap,nodejs,jQuery&software=windows,vscode,mongodb,git,heroku&includeNames=true&theme=darkmode"/></p></a>
+  <a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,rust,html,css,xml&&frameworks=express,django,react,bootstrap,nodejs,jQuery&software=windows,linux,vscode,mongodb,git,heroku&includeNames=true&theme=darkmode"/></p></a>
 ***
 # Stats
 ***
