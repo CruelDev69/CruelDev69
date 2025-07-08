@@ -58,4 +58,4 @@ aka: "cruel",
 ## Social Medias:
 [![Twitter](https://img.shields.io/twitter/follow/19Ahadnoor?color=%23ff0000&label=Follow%20%4019Ahadnoor%20on%20Twitter&style=for-the-badge&logo=twitter)](https://twitter.com/19Ahadnoor)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC5vCNtDoHuJTOMD8oqL7AgQ?color=%23ff0000&label=Subscribe%20Ahad%20on%20YouTube&style=for-the-badge&logo=youtube)](https://youtube.com/channel/UC5vCNtDoHuJTOMD8oqL7AgQ)
-[![Instagram](https://img.shields.io/badge/Follow%20ahad%20on%20Instagram-1k%2B-%23ff0000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ahadnoor.)
+[![Instagram](https://img.shields.io/badge/Follow%20ahad%20on%20Instagram-40%2B-%23ff0000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ahadnoor._)
